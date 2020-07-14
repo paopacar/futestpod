@@ -1,0 +1,6 @@
+framework module ShunLianLib {
+  umbrella header "ShunLianLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
